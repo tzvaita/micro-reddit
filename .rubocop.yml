@@ -48,3 +48,14 @@ Layout/ExtraSpacing:
 Layout/MultilineMethodCallIndentation:
   Enabled: true
   EnforcedStyle: indented
+
+Lint/RaiseException (0.81):
+  Enabled: true
+Lint/StructNewOverride (0.81):
+  Enabled: true
+Style/HashEachMethods (0.80):
+  Enabled: true
+Style/HashTransformKeys (0.80):
+  Enabled: true
+Style/HashTransformValues (0.80):
+  Enabled: true
