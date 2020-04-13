@@ -50,12 +50,12 @@ Layout/MultilineMethodCallIndentation:
   EnforcedStyle: indented
 
 Lint/RaiseException (0.81):
-  Enabled: true
+  Enabled: false
 Lint/StructNewOverride (0.81):
-  Enabled: true
+  Enabled: false
 Style/HashEachMethods (0.80):
-  Enabled: true
+  Enabled: false
 Style/HashTransformKeys (0.80):
-  Enabled: true
+  Enabled: false
 Style/HashTransformValues (0.80):
-  Enabled: true
+  Enabled: false
