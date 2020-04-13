@@ -1,4 +1,7 @@
+inherit_from: .rubocop_todo.yml
+
 AllCops:
+  EnabledByDefault: true
   Exclude:
     - "db/**/*"
     - "bin/*" 
@@ -48,4 +51,3 @@ Layout/ExtraSpacing:
 Layout/MultilineMethodCallIndentation:
   Enabled: true
   EnforcedStyle: indented
-  
